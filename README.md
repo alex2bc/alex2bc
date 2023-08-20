@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Alex
 
-<!--
-**alex2bc/alex2bc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Experienced React Native Developer
+- 💻 9 years of mobile app and game development experience
+- 🔭 Currently working on few top-notch startups
+- 💬 Enjoy diverse conversations
+-	🌟 Attention to detail and commitment to excellence
+- 🏆 Actively involved as an open source contributor
+- 📚 Staying updated with the latest trends
